@@ -1,24 +1,8 @@
-# README
+## Rails base app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is containing a blank rails application using postgreSQL as database.
 
-Things you may want to cover:
+Version :
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Rails 7.0.3.1
+- Ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [arm64-darwin21]
