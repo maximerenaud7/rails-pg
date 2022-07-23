@@ -5,7 +5,7 @@ default: &default
   timeout: 5000
 
 local_db: &local_db
-  database: forax
+  database: postgres
   username: root
   password: root
   host: localhost
@@ -18,7 +18,7 @@ development:
 test:
   <<: *default
   <<: *local_db
-  database: forax_test
+  database: postgres_test
 
 production:
   <<: *default

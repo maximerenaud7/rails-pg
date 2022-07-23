@@ -1,0 +1,10 @@
+Style/Documentation:
+  Enabled: false
+Metrics/CyclomaticComplexity:
+  Enabled: false
+Metrics/PerceivedComplexity:
+  Enabled: false
+Layout/MultilineOperationIndentation:
+  Enabled: false
+Metrics/MethodLength:
+  Max: 80
